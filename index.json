@@ -11,6 +11,18 @@
       "title": "Release 3.52.14",
       "titles": { "fr": "Version 3.52.14" },
       "date": "2026-06-02"
+    },
+    {
+      "id": 3,
+      "title": "Release 3.52.15",
+      "titles": { "fr": "Version 3.52.15" },
+      "date": "2026-06-09"
+    },
+    {
+      "id": 4,
+      "title": "Release 3.52.16",
+      "titles": { "fr": "Version 3.52.16" },
+      "date": "2026-06-12"
     }
   ]
 }
