@@ -23,6 +23,12 @@
       "title": "Release 3.52.16",
       "titles": { "fr": "Version 3.52.16" },
       "date": "2026-06-12"
+    },
+    {
+      "id": 5,
+      "title": "Release 3.52.17",
+      "titles": { "fr": "Version 3.52.17" },
+      "date": "2026-06-17"
     }
   ]
 }
