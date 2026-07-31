@@ -3,38 +3,44 @@
     {
       "id": 1,
       "title": "Release 3.52.13",
-      "titles": { "fr": "Version 3.52.13" },
+      "titles": { "fr": "Version 3.52.13", "es": "Versión 3.52.13" },
       "date": "2026-05-21"
     },
     {
       "id": 2,
       "title": "Release 3.52.14",
-      "titles": { "fr": "Version 3.52.14" },
+      "titles": { "fr": "Version 3.52.14", "es": "Versión 3.52.14" },
       "date": "2026-06-02"
     },
     {
       "id": 3,
       "title": "Release 3.52.15",
-      "titles": { "fr": "Version 3.52.15" },
+      "titles": { "fr": "Version 3.52.15", "es": "Versión 3.52.15" },
       "date": "2026-06-09"
     },
     {
       "id": 4,
       "title": "Release 3.52.16",
-      "titles": { "fr": "Version 3.52.16" },
+      "titles": { "fr": "Version 3.52.16", "es": "Versión 3.52.16" },
       "date": "2026-06-12"
     },
     {
       "id": 5,
       "title": "Release 3.52.17",
-      "titles": { "fr": "Version 3.52.17" },
+      "titles": { "fr": "Version 3.52.17", "es": "Versión 3.52.17" },
       "date": "2026-06-17"
     },
     {
       "id": 6,
       "title": "Release 3.53.0",
-      "titles": { "fr": "Version 3.53.0" },
+      "titles": { "fr": "Version 3.53.0", "es": "Versión 3.53.0" },
       "date": "2026-07-07"
+    },
+    {
+      "id": 7,
+      "title": "Release 3.54.0",
+      "titles": { "fr": "Version 3.54.0", "es": "Versión 3.54.0" },
+      "date": "2026-07-31"
     }
   ]
 }
