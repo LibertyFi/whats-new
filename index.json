@@ -41,6 +41,12 @@
       "title": "Release 3.54.0",
       "titles": { "fr": "Version 3.54.0", "es": "Versión 3.54.0" },
       "date": "2026-07-31"
+    },
+    {
+      "id": 8,
+      "title": "Release 3.55.0",
+      "titles": { "fr": "Version 3.55.0", "es": "Versión 3.55.0" },
+      "date": "2026-08-28"
     }
   ]
 }
