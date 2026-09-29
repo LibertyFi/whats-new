@@ -47,6 +47,24 @@
       "title": "Release 3.55.0",
       "titles": { "fr": "Version 3.55.0", "es": "Versión 3.55.0" },
       "date": "2026-08-28"
+    },
+    {
+      "id": 9,
+      "title": "Release 3.56.0",
+      "titles": { "fr": "Version 3.56.0", "es": "Versión 3.56.0" },
+      "date": "2026-09-16"
+    },
+    {
+      "id": 10,
+      "title": "Release 3.57.0",
+      "titles": { "fr": "Version 3.57.0", "es": "Versión 3.57.0" },
+      "date": "2026-09-24"
+    },
+    {
+      "id": 11,
+      "title": "Release 3.58.0",
+      "titles": { "fr": "Version 3.58.0", "es": "Versión 3.58.0" },
+      "date": "2026-09-26"
     }
   ]
 }
