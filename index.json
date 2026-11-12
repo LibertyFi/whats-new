@@ -89,6 +89,12 @@
       "title": "Release 3.62.0",
       "titles": { "fr": "Version 3.62.0", "es": "Versión 3.62.0" },
       "date": "2026-11-09"
+    },
+    {
+      "id": 16,
+      "title": "Release 3.63.0",
+      "titles": { "fr": "Version 3.63.0", "es": "Versión 3.63.0" },
+      "date": "2026-11-12"
     }
   ]
 }
